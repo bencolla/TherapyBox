@@ -1,0 +1,64 @@
+.main-background{
+    background-image: url("../images/background.png");
+    background-size: cover;
+}
+
+.upload-background{
+    background-color: #7385a3;
+    border: 2px solid #f9ee00;
+}
+
+.upload-image{
+    background-color: #ffffff;
+    border: 2px solid #f9ee00;
+}
+
+.text-white{
+    color: white;
+}
+
+.btn-yellow{
+    background-color: #f9ee00;
+    color: #000;
+}
+
+.text-yellow{
+    color: #f9ee00;
+}
+
+.btn-long{
+    border-radius: 30px;
+    padding: 4.5px 40px;
+}
+
+.footer-text {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.l-s-4{
+    letter-spacing: 4px;
+}
+.l-s-3{
+    letter-spacing: 3px;
+}
+
+.hide{
+    display: none;
+}
+
+#weather-icon{
+    float: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    min-height: 135px;
+    min-width: 140px;
+}
+
+.thumbnail {
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 100%; /* Set a small width */
+}
